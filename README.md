@@ -16,3 +16,5 @@ to learn about it :- [Blog](http://mrsiddy.me/The-Student-Blog/2021/05/14/Biot-S
 
 <img src="assets\BSL-1_v.gif"  />
 
+<img src="assets\circle.gif"  />
+
